@@ -12,7 +12,7 @@ An in-depth paragraph about your project and overview of use.
 ## Getting started
 
 ### Dependencies
-- Describe any prerequisites
+- Describe any prerequisites, libraries
 - Ex. Windows 10
 
 ## Installing
