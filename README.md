@@ -19,7 +19,7 @@ An in-depth paragraph about your project and overview of use.
 - How/Where to download your program
 - Any modifications needed to be made
 
-*Code **blocks** for commands*
+'Code blocks for commands'
 
 ## License
 This **project** is licensed under Megha Goyal License- see the LICENSE.md file for details.
