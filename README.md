@@ -23,3 +23,6 @@ An in-depth paragraph about your project and overview of use.
 
 ## License
 This **project** is licensed under Megha Goyal License- see the LICENSE.md file for details.
+
+## Rstudio
+Just an update on R-studio
